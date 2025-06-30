@@ -11,3 +11,6 @@ Holerites – para registro de salários e proventos recebidos durante o ano.
 
 Ideal para uso pessoal ou para quem deseja auxiliar familiares e amigos na preparação da declaração anual.
 Sinta-se à vontade para adaptar conforme sua realidade.
+
+📚 Autora
+Desenvolvido por Natali Muniz como parte do curso de Excel com foco em aplicações práticas.
